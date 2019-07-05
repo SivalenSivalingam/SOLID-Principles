@@ -1,0 +1,9 @@
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\bin\Debug\netstandard2.0\SOLID-Principles.deps.json
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\bin\Debug\netstandard2.0\SOLID-Principles.dll
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\bin\Debug\netstandard2.0\SOLID-Principles.pdb
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\obj\Debug\netstandard2.0\SOLID-Principles.csprojAssemblyReference.cache
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\obj\Debug\netstandard2.0\SOLID-Principles.csproj.CoreCompileInputs.cache
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\obj\Debug\netstandard2.0\SOLID-Principles.AssemblyInfoInputs.cache
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\obj\Debug\netstandard2.0\SOLID-Principles.AssemblyInfo.cs
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\obj\Debug\netstandard2.0\SOLID-Principles.dll
+C:\Users\sivalen.sivalingham\Source\Repos\SOLID-Principles\obj\Debug\netstandard2.0\SOLID-Principles.pdb
