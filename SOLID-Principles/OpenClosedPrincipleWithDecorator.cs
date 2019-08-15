@@ -8,8 +8,8 @@
 			var normalCamera = new Camera();
 			var normalPicture = normalCamera.TakePicture();
 
-			var ThreeDCamera = new ThreeDimensionalCameraDecorator(normalCamera);
-			var threeDPicture = ThreeDCamera.TakePicture();
+			var threeDimensionalCamera = new ThreeDimensionalCameraDecorator(normalCamera);
+			var threeDimensionalPicture = threeDimensionalCamera.TakePicture();
 		}
 
 	}
